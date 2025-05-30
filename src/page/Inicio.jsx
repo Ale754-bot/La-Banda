@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import BlurText from "./BlurText";
-import LogosClubes from "../components/Logosclubes.jsx";
+import LogosClubes from "../components/LogosClubes.jsx";
 
 
 
