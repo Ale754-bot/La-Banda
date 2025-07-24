@@ -13,7 +13,7 @@ export default function Inicio() {
   return (
     <div className="relative text-white min-h-screen overflow-hidden">
       {/* Fondo con imagen desenfocada */}
-      <div className="absolute inset-0 bg-[url('/public/file_000000002fb461f8a0a79ee311c2983d.png')] bg-cover bg-center opacity-30 blur-sm z-0" />
+      <div className="absolute inset-0 bg-[url('/file_000000002fb461f8a0a79ee311c2983d.png')] bg-cover bg-center opacity-30 blur-sm z-0" />
 
       {/* Contenido principal */}
       <div className="relative z-10 px-6 py-20 max-w-6xl mx-auto text-center">
