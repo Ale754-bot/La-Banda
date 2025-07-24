@@ -69,7 +69,7 @@ const StyledWrapper = styled.div`
     width: 280px;
     height: 240px;
     z-index: 2;
-    background: url('/public/fon.jpg') center/cover no-repeat;
+    background: url('/fon.jpg') center/cover no-repeat;
     backdrop-filter: blur(10px); /* Simula vidrio */
     border-radius: 10px;
     overflow: hidden;
