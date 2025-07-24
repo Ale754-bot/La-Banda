@@ -36,7 +36,7 @@ export default function Inicio() {
         </motion.p>
 
         <motion.img
-  src="/public/MARAURA.gif"
+  src="/MARAURA.gif"
   className="mt-10 w-full max-w-md mx-auto shadow-2xl"
   initial={{ scale: 0.9, opacity: 0 }}
   animate={{ scale: 1, opacity: 1 }}
