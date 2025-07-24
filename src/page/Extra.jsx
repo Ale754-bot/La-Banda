@@ -16,7 +16,7 @@ export default function Extra(){
                   </motion.h1>
                          
             <Carta
-            imageSrc="../public/CARTALIONEL.png"
+            imageSrc="../CARTALIONEL.png"
             altText="Maradelli"
             captionText="Lionel El Fenix Maradelli"
             containerHeight="400px"
@@ -44,7 +44,7 @@ export default function Extra(){
         </motion.p>
 
        <motion.img
-  src="/public/MaradelliGol.gif"
+  src="/MaradelliGol.gif"
   className="mt-10 w-full max-w-md mx-auto shadow-2xl"
   initial={{ scale: 0.9, opacity: 0 }}
   animate={{ scale: 1, opacity: 1 }}
