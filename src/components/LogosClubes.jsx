@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 
 export default function LogosClubes() {
   const logos = [
-    { src: "/public/RIVER.png", alt: "River Plate" },
-    { src: "/public/ARGENTINA.png", alt: "Selección Argentina" },
-    { src: "/public/BARCELONA.png", alt: "FC Barcelona" },
+    { src: "/RIVER.png", alt: "River Plate" },
+    { src: "/ARGENTINA.png", alt: "Selección Argentina" },
+    { src: "/BARCELONA.png", alt: "FC Barcelona" },
   ];
 
   return (

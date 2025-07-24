@@ -21,7 +21,7 @@ function Bienvenida() {
                     loop 
                     muted
                 >
-                    <source src="/public/MARADELLI2.mp4" type="video/mp4" />
+                    <source src="/MARADELLI2.mp4" type="video/mp4" />
                 </video>
             </div>
 
@@ -46,7 +46,7 @@ function Bienvenida() {
             <div className="absolute inset-0 flex flex-col items-center justify-center text-center text-white">
                 {/* Logotipo de River Plate */}
                 <motion.img 
-                    src="/public/RIVER.png" 
+                    src="/RIVER.png" 
                     alt="River Plate Logo" 
                     className="w-32 h-32 mb-4 drop-shadow-lg"
                     initial={{ opacity: 0, scale: 0.5 }}

@@ -5,31 +5,31 @@ const timeline = [
     year: "2005 - 2010",
     title: "Infancia y orígenes",
     description: `Nacido en La Matanza, Buenos Aires, creció en un entorno humilde. Desde chico mostró un talento inusual. Su madre lo crio sola y a los 7 años fue detectado por una escuelita afiliada a River.`,
-    img: "/public/Maradelliniño.jpg",
+    img: "/Maradelliniño.jpg",
   },
   {
     year: "2012 - 2022",
     title: "Inferiores y consolidación en River",
     description: `Leyenda en inferiores, fue conocido como "el chico que juega con fuego". A los 17 debutó en Primera contra Boca con un gol inolvidable. Su apodo 'El Fénix' nace de su capacidad de renacer ante la adversidad.`,
-    img: "/public/file_00000000b3586230857b174ae30a26c1.png",
+    img: "/file_00000000b3586230857b174ae30a26c1.png",
   },
   {
     year: "2024 - 2025",
     title: "Selección Argentina Sub-20",
     description: `En el Mundial Sub-20 fue la figura con 5 goles y 4 asistencias. Ganó el premio al Mejor Jugador Sub-20 y fue ovacionado por todo el país.`,
-    img: "/public/file_000000000b2461f8ba10a483093498f7.png",
+    img: "/file_000000000b2461f8ba10a483093498f7.png",
   },
   {
     year: "2026 y Futuro",
     title: "Rumores de Europa: FC Barcelona",
     description: `Barcelona confirmó su fichaje por 60 millones. Le reservaron el dorsal 10. Xavi dijo: “Con Maradelli, el Barça vuelve a soñar.”`,
-    img: "/public/file_00000000451461f796a1233d3ff1119f.png",
+    img: "/file_00000000451461f796a1233d3ff1119f.png",
   },
   {
     year: "Extras",
     title: "Curiosidades",
     description: `Fanático de Aimar, estudia historia del fútbol, tiene un tatuaje de un fénix y su hermana Cande también juega profesionalmente.`,
-    img: "/public/file_00000000260c61f98496b2bb880c5422.png",
+    img: "/file_00000000260c61f98496b2bb880c5422.png",
   },
 ];
 
